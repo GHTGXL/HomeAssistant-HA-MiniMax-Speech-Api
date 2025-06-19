@@ -1,0 +1,10 @@
+{
+  "domain": "minimax_tts",
+  "name": "Minimax TTS",
+  "config_flow": true,
+  "documentation": "https://github.com/GHTGXL/HomeAssistant-HA-MiniMax-Speech-Api",
+  "codeowners": ["@GHLGXL"],
+  "requirements": ["requests"],
+  "version": "0.0.0",
+  "iot_class": "cloud_polling"
+}
